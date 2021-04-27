@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.auroraoss.com",
     "slug": "aurora-oss-website",
     "status": "down",
-    "uptime": "9.16%",
-    "uptimeDay": "9.16%",
-    "uptimeWeek": "9.16%",
-    "uptimeMonth": "9.16%",
-    "uptimeYear": "9.16%",
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-27": 0
+      "2021-04-27": 16
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 440,
-    "timeWeek": 440,
-    "timeMonth": 440,
-    "timeYear": 440,
+    "time": 424,
+    "timeDay": 424,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 405,
-    "timeWeek": 405,
-    "timeMonth": 405,
-    "timeYear": 405,
+    "time": 428,
+    "timeDay": 428,
+    "timeWeek": 428,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {}
   },
   {
