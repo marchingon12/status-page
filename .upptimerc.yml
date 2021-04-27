@@ -5,6 +5,7 @@ repo: status-page # The name of this repository
 sites:
   - name: AuroraOSS Website
     url: https://www.auroraoss.com
+    maxResponseTime: 1200000
   - name: AuroraOSS API
     url: https://api.auroraoss.com
   - name: Hacker News
