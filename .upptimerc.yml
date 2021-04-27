@@ -6,6 +6,7 @@ sites:
   - name: AuroraOSS Website
     url: https://auroraoss.com
     maxResponseTime: 1200000
+    icon: https://auroraoss.com/favicon.ico
   - name: AuroraOSS API
     url: https://api.auroraoss.com
   - name: Hacker News
