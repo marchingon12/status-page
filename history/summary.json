@@ -5,16 +5,16 @@
     "icon": "https://auroraoss.com/favicon.ico",
     "slug": "aurora-oss-website",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
-    "time": 505,
-    "timeDay": 495,
-    "timeWeek": 505,
-    "timeMonth": 505,
-    "timeYear": 505,
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 498,
+    "timeDay": 483,
+    "timeWeek": 498,
+    "timeMonth": 498,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2021-04-27": 17
     }
@@ -31,48 +31,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 425,
-    "timeDay": 430,
+    "timeDay": 428,
     "timeWeek": 425,
     "timeMonth": 425,
     "timeYear": 425,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
-    "time": 418,
-    "timeDay": 417,
-    "timeWeek": 418,
-    "timeMonth": 418,
-    "timeYear": 418,
-    "dailyMinutesDown": {
-      "2021-04-28": 23
-    }
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
-    "slug": "test-broken-site",
+    "name": "AuroraOSS Token Dispenser",
+    "url": "http://goolag.store:1337/api/status",
+    "icon": "https://favicons.githubusercontent.com/goolag.store",
+    "slug": "aurora-oss-token-dispenser",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "93.81%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "93.81%",
+    "uptimeMonth": "93.81%",
+    "uptimeYear": "93.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-29": 0
+    }
   }
 ]
