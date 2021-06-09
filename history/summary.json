@@ -24,9 +24,9 @@
     "url": "https://api.auroraoss.com",
     "icon": "https://favicons.githubusercontent.com/api.auroraoss.com",
     "slug": "aurora-oss-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 425,
     "timeMonth": 452,
     "timeYear": 454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 0
+    }
   },
   {
     "name": "AuroraOSS Token Dispenser",
@@ -43,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/goolag.store",
     "slug": "aurora-oss-token-dispenser",
     "status": "up",
-    "uptime": "96.86%",
+    "uptime": "96.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.01%",
-    "uptimeYear": "96.86%",
+    "uptimeYear": "96.93%",
     "time": 976,
     "timeDay": 255,
     "timeWeek": 331,
