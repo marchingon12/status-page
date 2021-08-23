@@ -5,10 +5,10 @@ repo: status-page # The name of this repository
 sites:
   - name: AuroraOSS Website
     url: https://auroraoss.com
-    maxResponseTime: 900000
+
     icon: https://auroraoss.com/favicon.ico
   - name: AuroraOSS API
-    url: https://api.auroraoss.com
+    url: https://auroraoss.com/api
   - name: AuroraOSS Token Dispenser
     url: http://goolag.store:1337/api/status
 
