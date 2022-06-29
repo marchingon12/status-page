@@ -5,18 +5,19 @@
     "icon": "https://auroraoss.com/favicon.ico",
     "slug": "aurora-oss-website",
     "status": "down",
-    "uptime": "26.89%",
+    "uptime": "26.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.47%",
+    "uptimeYear": "14.20%",
     "time": 546,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 557,
     "dailyMinutesDown": {
-      "2022-06-28": 76,
+      "2022-06-29": 71,
+      "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
       "2022-06-25": 1440,
@@ -331,8 +332,7 @@
       "2021-08-20": 1281,
       "2021-08-16": 97,
       "2021-08-15": 30,
-      "2021-07-22": 62,
-      "2021-06-29": 144
+      "2021-07-22": 62
     }
   },
   {
@@ -341,7 +341,7 @@
     "icon": "https://favicons.githubusercontent.com/auroraoss.com",
     "slug": "aurora-oss-api",
     "status": "down",
-    "uptime": "12.43%",
+    "uptime": "12.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -352,7 +352,8 @@
     "timeMonth": 0,
     "timeYear": 1010,
     "dailyMinutesDown": {
-      "2022-06-28": 76,
+      "2022-06-29": 72,
+      "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
       "2022-06-25": 1440,
@@ -707,8 +708,7 @@
       "2021-07-03": 1440,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
-      "2021-06-30": 1440,
-      "2021-06-29": 1440
+      "2021-06-30": 1440
     }
   },
   {
@@ -717,18 +717,19 @@
     "icon": "https://favicons.githubusercontent.com/goolag.store",
     "slug": "aurora-oss-token-dispenser",
     "status": "down",
-    "uptime": "71.85%",
+    "uptime": "71.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.62%",
+    "uptimeYear": "67.35%",
     "time": 406,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 314,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2022-06-28": 76,
+      "2022-06-29": 72,
+      "2022-06-28": 1440,
       "2022-06-27": 1440,
       "2022-06-26": 1440,
       "2022-06-25": 1440,
