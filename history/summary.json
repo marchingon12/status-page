@@ -5,18 +5,19 @@
     "icon": "https://auroraoss.com/favicon.ico",
     "slug": "aurora-oss-website",
     "status": "down",
-    "uptime": "26.28%",
+    "uptime": "26.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.76%",
+    "uptimeYear": "11.49%",
     "time": 546,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 550,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2022-07-08": 80,
+      "2022-07-09": 65,
+      "2022-07-08": 1440,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
@@ -350,7 +351,7 @@
     "icon": "https://favicons.githubusercontent.com/auroraoss.com",
     "slug": "aurora-oss-api",
     "status": "down",
-    "uptime": "12.15%",
+    "uptime": "12.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -361,7 +362,8 @@
     "timeMonth": 0,
     "timeYear": 1010,
     "dailyMinutesDown": {
-      "2022-07-08": 80,
+      "2022-07-09": 65,
+      "2022-07-08": 1440,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
@@ -716,8 +718,7 @@
       "2021-07-13": 1440,
       "2021-07-12": 1440,
       "2021-07-11": 1440,
-      "2021-07-10": 1440,
-      "2021-07-09": 1440
+      "2021-07-10": 1440
     }
   },
   {
@@ -726,18 +727,19 @@
     "icon": "https://favicons.githubusercontent.com/goolag.store",
     "slug": "aurora-oss-token-dispenser",
     "status": "down",
-    "uptime": "70.19%",
+    "uptime": "70.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "64.88%",
+    "uptimeYear": "64.61%",
     "time": 406,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 313,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2022-07-08": 80,
+      "2022-07-09": 65,
+      "2022-07-08": 1440,
       "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
@@ -874,8 +876,7 @@
       "2021-10-20": 19,
       "2021-10-13": 64,
       "2021-08-16": 44,
-      "2021-07-10": 59,
-      "2021-07-09": 78
+      "2021-07-10": 59
     }
   }
 ]
